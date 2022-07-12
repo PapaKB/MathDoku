@@ -1,5 +1,5 @@
 # MathDoku
-A math based version of Sudoku written in Java in which the elements in a cage must sum, multiply, divide or subtract, to equal a given number. The given number and the operation is given in the corner of the cage. The grid can be loaded from a text file or the user can enter an input.
+2019 Project: A math based version of Sudoku written in Java in which the elements in a cage must sum, multiply, divide or subtract, to equal a given number. The given number and the operation is given in the corner of the cage. The grid can be loaded from a text file or the user can enter an input.
 
 ## What I Learned
 * Further uses of classes
