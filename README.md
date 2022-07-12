@@ -44,3 +44,5 @@ On Linux/Mac:
 Please note that to enter a string input for a grid, you must expand the load alert and enter the details in the expandable dialog pane.
 
 ## Demonstration
+https://user-images.githubusercontent.com/81168517/178467379-07379901-3cb6-4c4f-93dd-8f07200d71fa.mp4
+
